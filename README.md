@@ -6,4 +6,6 @@ How to use?
   2. Input the abbreviation for one of the supported currencies -these will be printed on a list. This input could be lowercase, uppercase, or even a                combination of both. Example: 'AUD' for Australian Dollars.
   3. The script will compute and print the result.
   
+ For any suggestions, questions or comments, I can be reached at: ax.alvarenga19@gmail.com .
+ 
  Thank you!
